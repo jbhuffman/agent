@@ -1,4 +1,6 @@
 # Output Templates
+Version: v1.1
+Last updated: 2025-12-14
 
 ## Purpose
 Provide repeatable structures for common outputs.
