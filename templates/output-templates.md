@@ -31,6 +31,32 @@ Close: If this resonates, always open to comparing notes.
 
 ---
 
+## LinkedIn Post Template (Professional, Personal – Reflective)
+
+Use When:
+- The point is uncertainty, tension, or critique
+- You are naming a discomfort, not solving it
+- Advice would weaken the message
+- Resolution would feel dishonest
+
+Opening:
+- A blunt observation or friction point
+
+Body:
+- Personal reflection
+- Why the common advice does not sit right
+- What feels misaligned or performative
+
+Close:
+- Open-ended question or statement
+- No checklist
+- No CTA beyond curiosity
+
+Rule:
+Do not pivot into tips, frameworks, or how-to content unless explicitly asked.
+
+---
+
 ## LinkedIn Post Template (Business Page)
 
 Opening:
