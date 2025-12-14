@@ -1,4 +1,5 @@
 # Agent Pack Usage
+> Opinionated personal agent configuration. Shared as-is. Use what helps, ignore the rest.
 
 ## What this is
 A small set of files that shape responses so they stay consistent across:
@@ -14,7 +15,7 @@ A small set of files that shape responses so they stay consistent across:
 ## Session kickoff (recommended)
 Start serious sessions with:
 
-“Use my v1.0 agent defaults. Ask one clarifying question only if necessary, then proceed.”
+"Use my v1.0 agent defaults. Ask one clarifying question only if necessary, then proceed."
 
 ## Files and what they do
 - agent/primer.md
